@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Blog post about understanding Semantic HTML, its benefits, and common mistakes for web developers." />
+    <title>Blog Pages</title>
+  </head>
+  <body>
+    <header>
+      <h1 align="center">My Blog</h1>
+      <table border="1" cellspacing="0" cellpadding="10" align="center">
+        <tr>
+          <td>
+            <a href="index.html">Home</a>
+          </td>
+          <td>
+            <a href="#Blog">Blog</a>
+          </td>
+          <td>
+            <a href="Htmlweb.html">About</a>
+          </td>
+          <td>
+            <a href="Contactform.html">Contact</a>
+          </td>
+        </tr>
+      </table>
+    </header>
+    <br />
+    <main>
+      <article>
+        <h1>Understanding Semantic HTML: The Strong Foundation of the Web</h1>
+        <p id="Blog">
+          HTML is the backbone of every web page. However, many beginners
+          immediately use the <code> &lt;div&gt; </code> tag for everything,
+          without realizing that HTML has many specific tags designed to give
+          meaning to the content structure. This is called Semantic HTML.
+        </p>
+        <h2>Why is Semantic HTML Important?</h2>
+        <p>
+          Using Semantic HTML is not just about code aesthetics. It is a best
+          practice that has a huge impact on:
+        </p>
+        <ol>
+          <li>
+            SEO (Search Engine Optimization): Google can understand your
+            website's content more easily.
+          </li>
+          <li>
+            Accessibility: Screen readers for visually impaired users can
+            navigate the page better.
+          </li>
+          <li>
+            Maintainability: The code becomes easier to read, manage, and
+            collaborate on by other developers.
+          </li>
+        </ol>
+        <h2>Examples of Non-Semantic vs Semantic Tags</h2>
+        <p>
+          Instead of writing
+          <strong><code>&lt;div class="header"&gt;</code></strong
+          >, it is better to use the
+          <strong><code>&lt;header&gt;</code></strong> tag. A proper modern
+          <em>HTML5</em> structure usually consists of
+          <strong><code>&lt;header&gt;</code></strong> for titles and
+          navigation, <strong><code>&lt;main&gt;</code></strong> the main
+          content, inside which there is an
+          <strong><code>&lt;article&gt;</code></strong> for the blog post, and
+          <strong><code>&lt;footer&gt;</code></strong> for <em>copyrights.</em>
+        </p>
+        <pre><code><center>
+  &lt;header&gt; &lt;!-- Judul dan Navigasi --&gt; &lt;/header&gt;
+  &lt;main&gt;
+    &lt;article&gt; &lt;!-- Isi Artikel --&gt; &lt;/article&gt;
+  &lt;/main&gt;
+  &lt;footer&gt; &lt;!-- Hak Cipta --&gt; &lt;/footer&gt;
+</code></pre></center>
+<br>
+        <p>
+          The diagram below illustrates how semantic tags are arranged to form a
+          healthy web layout.
+        </p>
+        <figure align="center">
+          <img
+            src="Diagram-Sematic.jpeg"
+            alt="Diagram showing the semantic structure of a web page using header, main, article, aside, and footer elements."
+            width="50%"
+          />
+          <figcaption>
+            Figure 1: Illustration of the layout of a structured semantic HTML5
+            document.
+          </figcaption>
+        </figure>
+        <h2>Common Beginner Mistakes</h2>
+        <p>
+          One of the biggest mistakes is using headings haphazardly. Never skip
+          from <strong><code>&lt;h1&gt;</code></strong> directly to
+          <strong><code>&lt;h3&gt;</code></strong> just because you like the
+          font size. The HTML rule requires a hierarchical and sequential
+          heading order (<strong><code>&lt;h1&gt;</code></strong> followed by
+          <strong><code>&lt;h2&gt;</code></strong
+          >, then <strong><code>&lt;h3&gt;</code></strong
+          >).
+        </p>
+        <br />
+        <blockquote>
+          "The purpose of HTML is not to control visual appearance, but to
+          provide structure and meaning to the content. Leave the styling to
+          CSS."
+        </blockquote>
+        <cite> Quoted from Web Fundamentals documentation </cite>
+        <br />
+      </article>
+      <footer>
+        <h2>Learn more</h2>
+        <p>
+          Read the
+          <a
+            href="https://developer.mozilla.org/en-US/docs/Web/HTML"
+            target="_blank"
+            >HTML MDN Docs</a
+          >
+          to learn more about HTML
+        </p>
+        <p align="center">&copy; 2026 My blog</p>
+      </footer>
+    </main>
+  </body>
+</html>
