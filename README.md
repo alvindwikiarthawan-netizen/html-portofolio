@@ -8,6 +8,7 @@ Check out my website here:
   <li><a href="https://alvindwikiarthawan-netizen.github.io/html-portofolio/cv.html">Single-pageCV</a></li>
   <li><a href="https://alvindwikiarthawan-netizen.github.io/html-portofolio/Contactform.html">Contact form</a></li>
   <li><a href="https://alvindwikiarthawan-netizen.github.io/html-portofolio/Blog-pagesweb.html">Blog post web</a></li>
+  <li><a href="https://alvindwikiarthawan-netizen.github.io/html-portofolio/PricingComparison-Table.html">Pricing Comparion Table</a></li>
 </ul>
 
 ## Roadmap sh project
@@ -16,5 +17,6 @@ Check out my website here:
   <li><a href="https://roadmap.sh/projects/single-page-cv">Single-PageCV Project</a></li>
   <li><a href="https://roadmap.sh/projects/contact-form">Contact form Project</a></li>
   <li><a href="https://roadmap.sh/projects/blog-post-page">Blog post Project</a></li>
+  <li><a href="https://roadmap.sh/projects/pricing-comparison-table">Pricing Comparion Table Project</a></li>
 </ul>
 
