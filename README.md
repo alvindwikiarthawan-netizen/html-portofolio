@@ -2,7 +2,7 @@
 My personal project with roadmap sh
 <br>
 ## Project URL 
-Check out my website here:
+Check out my Project here:
 <ul>
   <li><a href="https://alvindwikiarthawan-netizen.github.io/html-portofolio/">Basic html website</a></li>
   <li><a href="https://alvindwikiarthawan-netizen.github.io/html-portofolio/cv.html">Single-pageCV</a></li>
@@ -10,6 +10,8 @@ Check out my website here:
   <li><a href="https://alvindwikiarthawan-netizen.github.io/html-portofolio/Blog-pagesweb.html">Blog post web</a></li>
   <li><a href="https://alvindwikiarthawan-netizen.github.io/html-portofolio/PricingComparison-Table.html">Pricing Comparion Table</a></li>
   <li><a href="https://alvindwikiarthawan-netizen.github.io/html-portofolio/Photoshowcase.html">Photo Show Case</a></li>
+  <li><a href="https://alvindwikiarthawan-netizen.github.io/html-portofolio/Recipepages.html">Recipe page</a></li>
+  <li><a href="https://alvindwikiarthawan-netizen.github.io/html-portofolio/bookmarks.html">Book Marks</a></li>
 </ul>
 
 ## Roadmap sh project
