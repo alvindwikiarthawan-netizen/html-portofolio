@@ -1,6 +1,10 @@
 # Frontend Project
 My personal project with roadmap sh
 <br>
+## All Project HTML
+You can view all the projects at the link here:
+<a href="https://alvindwikiarthawan-netizen.github.io/html-portofolio/Project-Hub.html"> HTML Project Hub </a>
+<br>
 ## Project URL 
 Check out my Project here:
 <ul>
@@ -12,6 +16,7 @@ Check out my Project here:
   <li><a href="https://alvindwikiarthawan-netizen.github.io/html-portofolio/Photoshowcase.html">Photo Show Case</a></li>
   <li><a href="https://alvindwikiarthawan-netizen.github.io/html-portofolio/Recipepages.html">Recipe page</a></li>
   <li><a href="https://alvindwikiarthawan-netizen.github.io/html-portofolio/bookmarks.html">Book Marks</a></li>
+  <li><a href="https://alvindwikiarthawan-netizen.github.io/html-portofolio/Learning-log.html">Learning Log</a></li>
 </ul>
 
 ## Roadmap sh project
